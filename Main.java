@@ -15,6 +15,9 @@ public class Main {
         vysledek = Matika.odecist(10,2);
         System.out.println("rozdil je " + vysledek);
 
+        vysledek = Matika.vynasobit(10,2);
+        System.out.println("soucin je " + vysledek);
+
 
     }
 }
