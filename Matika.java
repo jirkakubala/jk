@@ -12,4 +12,6 @@ public class Matika {
         return x*y;
     }
 
+    //pridan dalsi radek...
+
 }
