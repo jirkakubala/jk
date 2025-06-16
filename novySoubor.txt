@@ -5,3 +5,6 @@ Toto je dalsi textovy soubor z github...
 
 
 a pridano v InteliJ...
+
+
+a pridano na githubu!!!
