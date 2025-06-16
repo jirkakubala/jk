@@ -18,4 +18,8 @@ public class Matika {
         return x*x;
     }
 
+    public static double vydelit(double x, double y ) {
+        return x/y;
+    }
+
 }
