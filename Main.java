@@ -1,3 +1,5 @@
+import Prijmeni3Da.Pokus;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -20,6 +22,8 @@ public class Main {
 
         double vysledekD = Matika.vydelit(10,2);
         System.out.println("podil je " + vysledekD);
+
+        System.out.println("Jmeno a prijmeni je: " + Pokus.jmenoPrijmeni);
 
     }
 }
