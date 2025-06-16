@@ -18,6 +18,8 @@ public class Main {
         vysledek = Matika.vynasobit(10,2);
         System.out.println("soucin je " + vysledek);
 
+        double vysledekD = Matika.vydelit(10,2);
+        System.out.println("podil je " + vysledekD);
 
     }
 }
