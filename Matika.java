@@ -14,4 +14,8 @@ public class Matika {
 
     //pridan dalsi radek...
 
+    public static  int umocnit(int x) {
+        return x*x;
+    }
+
 }
