@@ -2,3 +2,6 @@ Toto je dalsi textovy soubor z github...
 
 
 ...konec
+
+
+a pridano v InteliJ...
