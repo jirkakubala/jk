@@ -12,5 +12,9 @@ public class Main {
         int vysledek = Matika.secist(10,2);
         System.out.println("soucet je " + vysledek);
 
+        vysledek = Matika.odecist(10,2);
+        System.out.println("rozdil je " + vysledek);
+
+
     }
 }
