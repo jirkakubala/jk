@@ -8,4 +8,8 @@ public class Matika {
         return x-y;
     }
 
+    public static  int vynasobit(int x, int y ) {
+        return x*y;
+    }
+
 }
