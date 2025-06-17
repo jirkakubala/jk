@@ -20,5 +20,8 @@ public class Main {
 
         System.out.println("Jmeno a prijmeni je: " + Pokus.jmenoPrijmeni);
 
+        System.out.println("Jiri Kubala");
+
+
     }
 }
