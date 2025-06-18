@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+
+        //moje jmeno a prijemeni je Jiri Kubala
         System.out.println("Neco na github...");
 
         int vysledek = Matika.secist(10,2);
