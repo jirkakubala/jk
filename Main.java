@@ -5,6 +5,10 @@ public class Main {
     public static void main(String[] args) {
 
 
+        //1.
+        //2.
+        //3.
+
         //moje jmeno a prijemeni je Jiri Kubala
         System.out.println("Neco na github...");
 

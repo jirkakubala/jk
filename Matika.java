@@ -23,4 +23,6 @@ public class Matika {
         return x/y;
     }
 
+
+    //pridano do Matika.java
 }
